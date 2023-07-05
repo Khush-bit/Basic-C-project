@@ -2,7 +2,7 @@
 
 Title: SUPERMARKET BILLING SYSTEM
 
-Description: It lets the administrator edit items available, editing includes: modifying the item details, removing items and adding items.
+Description: It lets the administrator edit the items available after successful login, editing includes: modifying the item details, removing items and adding items.
             It lets the user to add different items to the cart and shows a receipt at the end.
 
 Operations used: 
